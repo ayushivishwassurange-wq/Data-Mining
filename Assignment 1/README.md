@@ -57,28 +57,28 @@ Assignment 1/
 ### Dataset
 | File | Description | Link |
 |---|---|---|
-| Raw Dataset | `raw_merged_heart_dataset.csv` (2,181 records) | [https://www.kaggle.com/datasets/mfarhaannazirkhan/heart-dataset/data]() |
+| Raw Dataset | `raw_merged_heart_dataset.csv` (2,181 records) | [https://www.kaggle.com/datasets/mfarhaannazirkhan/heart-dataset/data?select=raw_merged_heart_dataset.csv]() |
 
 ### Report
 | File | Description | Link |
 |---|---|---|
-| Medium Article Report | Full write-up with findings & business insights | [Link]() |
+| Medium Article Report | Full write-up with findings & business insights | [[(https://medium.com/@ayushivishwas.surange/predicting-heart-disease-with-machine-learning-a-complete-case-study-d8179a7742d4)]() |
 
 ### Visualisations
 | # | File | Description | Link |
 |---|---|---|---|
-| 01 | `01_missing.png` | Missing value analysis | [Link]() |
-| 02 | `02_target.png` | Target distribution (pie + bar) | [Link]() |
-| 03 | `03_distributions.png` | Continuous feature distributions by target | [Link]() |
-| 04 | `04_categorical.png` | Categorical features vs target | [Link]() |
-| 05 | `05_boxplots.png` | Outlier detection box plots | [Link]() |
-| 06 | `06_corr_heatmap.png` | Pearson correlation heatmap | [Link]() |
-| 07 | `07_target_corr.png` | Ranked feature-target correlations | [Link]() |
-| 08 | `08_feature_importance.png` | RF + XGBoost feature importance | [Link]() |
-| 09 | `09_model_comparison.png` | Model comparison bar chart | [Link]() |
-| 10 | `10_roc.png` | ROC curves (all 3 models) | [Link]() |
-| 11 | `11_confusion.png` | Confusion matrices | [Link]() |
-| 12 | `12_cv_boxplot.png` | Cross-validation AUC distribution | [Link]() |
+| 01 | `01_missing.png` | Missing value analysis | [[(https://github.com/ayushivishwassurange-wq/Data-Mining/blob/main/Assignment%201/output/01_missing.png)]() |
+| 02 | `02_target.png` | Target distribution (pie + bar) | [https://github.com/ayushivishwassurange-wq/Data-Mining/blob/main/Assignment%201/output/02_target.png]() |
+| 03 | `03_distributions.png` | Continuous feature distributions by target | [https://github.com/ayushivishwassurange-wq/Data-Mining/blob/main/Assignment%201/output/03_distributions.png]() |
+| 04 | `04_categorical.png` | Categorical features vs target | [https://github.com/ayushivishwassurange-wq/Data-Mining/blob/main/Assignment%201/output/04_categorical.png]() |
+| 05 | `05_boxplots.png` | Outlier detection box plots | [[(https://github.com/ayushivishwassurange-wq/Data-Mining/blob/main/Assignment%201/output/05_boxplots.png)]() |
+| 06 | `06_corr_heatmap.png` | Pearson correlation heatmap | [https://github.com/ayushivishwassurange-wq/Data-Mining/blob/main/Assignment%201/output/06_corr_heatmap.png]() |
+| 07 | `07_target_corr.png` | Ranked feature-target correlations | [https://github.com/ayushivishwassurange-wq/Data-Mining/blob/main/Assignment%201/output/07_target_corr.png]() |
+| 08 | `08_feature_importance.png` | RF + XGBoost feature importance | [https://github.com/ayushivishwassurange-wq/Data-Mining/blob/main/Assignment%201/output/08_feature_importance.png]() |
+| 09 | `09_model_comparison.png` | Model comparison bar chart | [https://github.com/ayushivishwassurange-wq/Data-Mining/blob/main/Assignment%201/output/09_model_comparison.png]() |
+| 10 | `10_roc.png` | ROC curves (all 3 models) | [https://github.com/ayushivishwassurange-wq/Data-Mining/blob/main/Assignment%201/output/10_roc.png]() |
+| 11 | `11_confusion.png` | Confusion matrices | [https://github.com/ayushivishwassurange-wq/Data-Mining/blob/main/Assignment%201/output/11_confusion.png]() |
+| 12 | `12_cv_boxplot.png` | Cross-validation AUC distribution | [https://github.com/ayushivishwassurange-wq/Data-Mining/blob/main/Assignment%201/output/12_cv_boxplot.png]() |
 
 ---
 
