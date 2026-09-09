@@ -1,0 +1,313 @@
+{
+  "tasks": [
+    {
+      "id": "1b2cab73-afa2-4993-aed9-4f3e473355d6",
+      "title": "Architect dynamic fullstack Todo list system",
+      "description": "Design responsive frontend with React 19, Tailwind, Lucide, and real-time SSE streaming backend.",
+      "status": "completed",
+      "priority": "urgent",
+      "category": "work",
+      "tags": [
+        "fullstack",
+        "architecture",
+        "react19"
+      ],
+      "dueDate": "2026-09-01T00:00:00.000Z",
+      "estimatedMinutes": 60,
+      "actualMinutes": 45,
+      "isArchived": false,
+      "order": 0,
+      "createdAt": "2026-08-31T01:41:16.569Z",
+      "updatedAt": "2026-09-01T01:41:16.569Z",
+      "completedAt": "2026-09-01T01:41:16.569Z",
+      "subtasks": [
+        {
+          "id": "85bd00b8-ca87-44a9-841f-4ef8f8287693",
+          "taskId": "",
+          "title": "Design database schema & types",
+          "completed": true,
+          "order": 0,
+          "createdAt": "2026-09-02T01:41:16.569Z"
+        },
+        {
+          "id": "2faef44b-d006-4d70-a3de-a4c217e5d918",
+          "taskId": "",
+          "title": "Define REST API routes & SSE events",
+          "completed": true,
+          "order": 1,
+          "createdAt": "2026-09-02T01:41:16.569Z"
+        },
+        {
+          "id": "1ceb7995-fe2b-4076-b1ce-121bb010f904",
+          "taskId": "",
+          "title": "Implement Kanban & Matrix views",
+          "completed": true,
+          "order": 2,
+          "createdAt": "2026-09-02T01:41:16.569Z"
+        }
+      ]
+    },
+    {
+      "id": "9d9612ea-7ff5-48f1-ba60-f0fdc269f0eb",
+      "title": "Finalize quarterly product roadmap review",
+      "description": "Gather feature requests from team members and prioritize deliverables for Q3.",
+      "status": "completed",
+      "priority": "urgent",
+      "category": "work",
+      "tags": [
+        "strategy",
+        "planning",
+        "q3"
+      ],
+      "dueDate": "2026-09-02T00:00:00.000Z",
+      "estimatedMinutes": 90,
+      "actualMinutes": 30,
+      "isArchived": false,
+      "order": 1,
+      "createdAt": "2026-09-01T20:41:16.569Z",
+      "updatedAt": "2026-09-02T01:47:07.293Z",
+      "completedAt": "2026-09-02T01:47:07.293Z",
+      "subtasks": [
+        {
+          "id": "cfd0749f-081c-4745-99a8-cf4f28f631b4",
+          "taskId": "",
+          "title": "Review stakeholder feedback",
+          "completed": true,
+          "order": 0,
+          "createdAt": "2026-09-02T01:41:16.569Z"
+        },
+        {
+          "id": "b6e5dbec-025c-4efd-a453-397b6e157f57",
+          "taskId": "",
+          "title": "Draft milestone deliverables",
+          "completed": true,
+          "order": 1,
+          "createdAt": "2026-09-02T01:41:16.569Z"
+        },
+        {
+          "id": "b3471ecd-0432-4ed6-b184-44b45fb3edcb",
+          "taskId": "",
+          "title": "Present slide deck in sync meeting",
+          "completed": true,
+          "order": 2,
+          "createdAt": "2026-09-02T01:41:16.569Z"
+        }
+      ]
+    },
+    {
+      "id": "ca9b446b-995e-4857-8153-b254af72516b",
+      "title": "Implement natural language task parsing",
+      "description": "Support quick input like \"Call accountant tomorrow at 3pm !high #finance\".",
+      "status": "completed",
+      "priority": "high",
+      "category": "work",
+      "tags": [
+        "nlp",
+        "ux",
+        "features"
+      ],
+      "dueDate": "2026-09-03T00:00:00.000Z",
+      "estimatedMinutes": 45,
+      "actualMinutes": 15,
+      "isArchived": false,
+      "order": 2,
+      "createdAt": "2026-09-01T22:41:16.569Z",
+      "updatedAt": "2026-09-09T20:58:58.859Z",
+      "completedAt": "2026-09-09T20:58:58.859Z",
+      "subtasks": [
+        {
+          "id": "1d8faba0-2d9b-4bd8-8262-217335053e61",
+          "taskId": "",
+          "title": "Regex priority and category extractors",
+          "completed": true,
+          "order": 0,
+          "createdAt": "2026-09-02T01:41:16.569Z"
+        },
+        {
+          "id": "a1fceae1-bfa7-4e1e-9bbb-bec3687a76ec",
+          "taskId": "",
+          "title": "Smart relative date parser (today, tmrw, next week)",
+          "completed": true,
+          "order": 1,
+          "createdAt": "2026-09-02T01:41:16.569Z"
+        }
+      ]
+    },
+    {
+      "id": "92891133-e93c-4830-a7d8-069b4bf893bf",
+      "title": "Morning 5km jog & hydration routine",
+      "description": "Hit the park trail before work and stretch for 10 minutes.",
+      "status": "completed",
+      "priority": "medium",
+      "category": "health",
+      "tags": [
+        "running",
+        "wellness",
+        "morning"
+      ],
+      "dueDate": "2026-09-02T00:00:00.000Z",
+      "estimatedMinutes": 40,
+      "actualMinutes": 35,
+      "isArchived": false,
+      "order": 3,
+      "createdAt": "2026-09-01T15:41:16.569Z",
+      "updatedAt": "2026-09-01T17:41:16.569Z",
+      "completedAt": "2026-09-01T17:41:16.569Z",
+      "subtasks": []
+    },
+    {
+      "id": "0b9ff896-13e0-4f51-9acb-16563fe36647",
+      "title": "Read 2 chapters of \"Designing Data-Intensive Applications\"",
+      "description": "Focus on replication logs and distributed consensus algorithms.",
+      "status": "todo",
+      "priority": "medium",
+      "category": "study",
+      "tags": [
+        "reading",
+        "system-design",
+        "books"
+      ],
+      "dueDate": "2026-09-05T00:00:00.000Z",
+      "estimatedMinutes": 60,
+      "actualMinutes": 0,
+      "isArchived": false,
+      "order": 4,
+      "createdAt": "2026-09-02T01:41:16.569Z",
+      "updatedAt": "2026-09-02T01:41:16.569Z",
+      "completedAt": null,
+      "subtasks": [
+        {
+          "id": "4f7205da-54d7-4e86-b91d-27c6c389d71c",
+          "taskId": "",
+          "title": "Chapter 5: Replication",
+          "completed": false,
+          "order": 0,
+          "createdAt": "2026-09-02T01:41:16.569Z"
+        },
+        {
+          "id": "a02c587a-f39f-41f0-a186-f5cc319eb844",
+          "taskId": "",
+          "title": "Chapter 6: Partitioning",
+          "completed": false,
+          "order": 1,
+          "createdAt": "2026-09-02T01:41:16.569Z"
+        },
+        {
+          "id": "d39fccd4-9d19-49c8-af60-9b97a3038152",
+          "taskId": "",
+          "title": "Take structured markdown notes",
+          "completed": false,
+          "order": 2,
+          "createdAt": "2026-09-02T01:41:16.569Z"
+        }
+      ]
+    },
+    {
+      "id": "bd5dd455-9f02-4f01-b4d4-d3f842f512d0",
+      "title": "Review investment portfolio & monthly budget",
+      "description": "Audit recurring subscriptions and allocate emergency savings fund.",
+      "status": "todo",
+      "priority": "low",
+      "category": "finance",
+      "tags": [
+        "budget",
+        "savings"
+      ],
+      "dueDate": null,
+      "estimatedMinutes": 30,
+      "actualMinutes": 0,
+      "isArchived": false,
+      "order": 5,
+      "createdAt": "2026-09-02T01:41:16.569Z",
+      "updatedAt": "2026-09-02T01:41:16.569Z",
+      "completedAt": null,
+      "subtasks": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "work",
+      "name": "Work & Projects",
+      "color": "#6366f1",
+      "icon": "Briefcase"
+    },
+    {
+      "id": "personal",
+      "name": "Personal",
+      "color": "#ec4899",
+      "icon": "User"
+    },
+    {
+      "id": "study",
+      "name": "Learning & Study",
+      "color": "#3b82f6",
+      "icon": "BookOpen"
+    },
+    {
+      "id": "health",
+      "name": "Health & Wellness",
+      "color": "#10b981",
+      "icon": "Heart"
+    },
+    {
+      "id": "finance",
+      "name": "Finance",
+      "color": "#f59e0b",
+      "icon": "DollarSign"
+    }
+  ],
+  "activityLogs": [
+    {
+      "id": "60168fcb-8123-44c2-a35d-755ba72c2d4e",
+      "taskId": "ca9b446b-995e-4857-8153-b254af72516b",
+      "taskTitle": "Implement natural language task parsing",
+      "action": "updated",
+      "details": "Updated task: \"Implement natural language task parsing\"",
+      "timestamp": "2026-09-09T20:58:58.859Z"
+    },
+    {
+      "id": "7cb20508-660b-4ae0-9a6e-5459e1d00181",
+      "taskId": "adf6a0d8-e919-4ff7-b9d9-4c2fcc68fb84",
+      "taskTitle": "Automated Test Task",
+      "action": "deleted",
+      "details": "Deleted task: \"Automated Test Task\"",
+      "timestamp": "2026-09-02T01:41:16.580Z"
+    },
+    {
+      "id": "1c539617-682a-43a1-ae04-584e9232b1fd",
+      "action": "updated",
+      "details": "Batch executed \"set_priority\" on 1 tasks",
+      "timestamp": "2026-09-02T01:41:16.579Z"
+    },
+    {
+      "id": "558a155d-8a89-4c4f-b4ff-33e73f346994",
+      "taskId": "adf6a0d8-e919-4ff7-b9d9-4c2fcc68fb84",
+      "taskTitle": "Automated Test Task",
+      "action": "updated",
+      "details": "Updated task: \"Automated Test Task\"",
+      "timestamp": "2026-09-02T01:41:16.576Z"
+    },
+    {
+      "id": "7ef77eac-f705-4c97-802c-8db3b729340e",
+      "taskId": "adf6a0d8-e919-4ff7-b9d9-4c2fcc68fb84",
+      "taskTitle": "Automated Test Task",
+      "action": "updated",
+      "details": "Updated task: \"Automated Test Task\"",
+      "timestamp": "2026-09-02T01:41:16.576Z"
+    },
+    {
+      "id": "cc7c95cb-7278-4510-b021-851bfe0ef9ed",
+      "taskId": "adf6a0d8-e919-4ff7-b9d9-4c2fcc68fb84",
+      "taskTitle": "Automated Test Task",
+      "action": "created",
+      "details": "Created task: \"Automated Test Task\"",
+      "timestamp": "2026-09-02T01:41:16.574Z"
+    },
+    {
+      "id": "28b99d9a-eeb1-4392-a1d6-985a499fdbf3",
+      "action": "created",
+      "details": "TaskFlow Pro database initialized with sample tasks",
+      "timestamp": "2026-09-02T01:41:16.569Z"
+    }
+  ]
+}
