@@ -1,0 +1,14 @@
+{
+  "name": "llm-chatbot-platform",
+  "version": "1.0.0",
+  "description": "State-of-the-Art Compact Mini-LLM & Chatbot Platform built strictly under the CRISP-DM Framework",
+  "scripts": {
+    "train": "python ml_engine/train.py",
+    "test": "python -m pytest backend/test_api.py -v",
+    "backend": "uvicorn backend.app:app --host 0.0.0.0 --port 8000 --reload",
+    "frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build"
+  },
+  "author": "Ayushi Vishwas Surange",
+  "license": "MIT"
+}

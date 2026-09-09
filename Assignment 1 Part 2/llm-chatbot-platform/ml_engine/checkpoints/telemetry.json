@@ -1,0 +1,16 @@
+{
+  "model_architecture": "Decoder-Only Autoregressive Transformer",
+  "parameters": 884864,
+  "layers": 4,
+  "heads": 4,
+  "d_model": 128,
+  "hidden_dim": 384,
+  "max_seq_len": 128,
+  "vocab_size": 248,
+  "training_time_seconds": 76.5,
+  "final_train_loss": 0.0239,
+  "final_val_loss": 0.0206,
+  "final_perplexity": 1.02,
+  "device": "cpu",
+  "timestamp": "2026-09-09 15:08:12"
+}
