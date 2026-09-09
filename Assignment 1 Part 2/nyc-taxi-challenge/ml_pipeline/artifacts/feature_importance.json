@@ -1,0 +1,118 @@
+[
+  {
+    "feature": "manhattan_dist",
+    "importance": 0.6603999733924866
+  },
+  {
+    "feature": "is_jfk_trip",
+    "importance": 0.30640000104904175
+  },
+  {
+    "feature": "haversine_dist",
+    "importance": 0.02199999988079071
+  },
+  {
+    "feature": "dropoff_dist_jfk",
+    "importance": 0.004699999932199717
+  },
+  {
+    "feature": "is_rush_hour",
+    "importance": 0.0010000000474974513
+  },
+  {
+    "feature": "euclidean_dist",
+    "importance": 0.0008999999845400453
+  },
+  {
+    "feature": "is_late_night",
+    "importance": 0.0005000000237487257
+  },
+  {
+    "feature": "cos_hour",
+    "importance": 0.0005000000237487257
+  },
+  {
+    "feature": "pickup_dist_jfk",
+    "importance": 0.0003000000142492354
+  },
+  {
+    "feature": "passenger_count",
+    "importance": 0.0003000000142492354
+  },
+  {
+    "feature": "abs_lon_diff",
+    "importance": 0.00019999999494757503
+  },
+  {
+    "feature": "dropoff_dist_ewr",
+    "importance": 0.00019999999494757503
+  },
+  {
+    "feature": "sin_month",
+    "importance": 0.00019999999494757503
+  },
+  {
+    "feature": "pickup_dist_ewr",
+    "importance": 0.00019999999494757503
+  },
+  {
+    "feature": "hour",
+    "importance": 0.00019999999494757503
+  },
+  {
+    "feature": "dropoff_dist_lga",
+    "importance": 0.00019999999494757503
+  },
+  {
+    "feature": "pickup_dist_lga",
+    "importance": 0.00019999999494757503
+  },
+  {
+    "feature": "cos_month",
+    "importance": 0.00019999999494757503
+  },
+  {
+    "feature": "cos_dayofweek",
+    "importance": 0.00019999999494757503
+  },
+  {
+    "feature": "day_of_week",
+    "importance": 0.00019999999494757503
+  },
+  {
+    "feature": "abs_lat_diff",
+    "importance": 0.00019999999494757503
+  },
+  {
+    "feature": "cos_bearing",
+    "importance": 0.00019999999494757503
+  },
+  {
+    "feature": "sin_dayofweek",
+    "importance": 0.00019999999494757503
+  },
+  {
+    "feature": "sin_hour",
+    "importance": 0.00019999999494757503
+  },
+  {
+    "feature": "sin_bearing",
+    "importance": 0.00019999999494757503
+  },
+  {
+    "feature": "bearing",
+    "importance": 9.999999747378752e-05
+  },
+  {
+    "feature": "is_lga_trip",
+    "importance": 9.999999747378752e-05
+  },
+  {
+    "feature": "is_ewr_trip",
+    "importance": 9.999999747378752e-05
+  },
+  {
+    "feature": "is_weekend",
+    "importance": 0.0
+  }
+]

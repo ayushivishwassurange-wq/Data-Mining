@@ -1,0 +1,16 @@
+{
+  "name": "nyc-taxi-challenge-monorepo",
+  "version": "1.0.0",
+  "description": "CRISP-DM End-to-End NYC Taxi Fare Prediction Platform",
+  "scripts": {
+    "train": "cd ml_pipeline && python train.py",
+    "test:backend": "cd backend && python -m pytest test_api.py -v",
+    "dev:backend": "cd backend && uvicorn app:app --host 0.0.0.0 --port 8000 --reload",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev": "concurrently -n \"FASTAPI,REACT_UI\" -c \"blue.bold,yellow.bold\" \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "project": "NYC Taxi Challenge - CRISP-DM Fare Prediction",
+  "framework": "CRISP-DM",
+  "champion_model": "XGBoost Regressor (Champion)",
+  "n_training_samples": 24000,
+  "n_test_samples": 6000,
+  "rmse": 1.659,
+  "mae": 1.175,
+  "r2_score": 0.9942,
+  "created_at": "2026-09-09T14:11:40",
+  "author": "Antigravity Data Science & ML Engine"
+}
