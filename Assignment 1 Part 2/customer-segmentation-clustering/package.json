@@ -1,0 +1,14 @@
+{
+  "name": "customer-segmentation-clustering",
+  "version": "1.0.0",
+  "description": "Multi-Algorithm Customer Segmentation & Clustering Platform built strictly under the CRISP-DM Framework",
+  "scripts": {
+    "pipeline": "python ml_engine/export_models.py",
+    "test": "python -m pytest backend/test_api.py -v",
+    "backend": "uvicorn backend.app:app --host 0.0.0.0 --port 8000 --reload",
+    "frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build"
+  },
+  "author": "Ayushi Vishwas Surange",
+  "license": "MIT"
+}

@@ -1,0 +1,309 @@
+{
+  "total_customers": 500,
+  "numeric_features": [
+    "Age",
+    "AnnualIncome",
+    "SpendingScore",
+    "Recency",
+    "Frequency",
+    "Monetary"
+  ],
+  "summary_stats": {
+    "Age": {
+      "mean": 39.42,
+      "std": 12.84,
+      "min": 18.0,
+      "q25": 28.0,
+      "median": 39.0,
+      "q75": 49.0,
+      "max": 72.0
+    },
+    "AnnualIncome": {
+      "mean": 59.54,
+      "std": 31.47,
+      "min": 15.0,
+      "q25": 28.48,
+      "median": 56.8,
+      "q75": 89.2,
+      "max": 137.2
+    },
+    "SpendingScore": {
+      "mean": 51.11,
+      "std": 28.33,
+      "min": 7.5,
+      "q25": 24.38,
+      "median": 47.5,
+      "q75": 78.43,
+      "max": 99.0
+    },
+    "Recency": {
+      "mean": 44.15,
+      "std": 36.65,
+      "min": 2.0,
+      "q25": 17.0,
+      "median": 32.0,
+      "q75": 63.0,
+      "max": 150.0
+    },
+    "Frequency": {
+      "mean": 17.55,
+      "std": 12.05,
+      "min": 1.0,
+      "q25": 7.0,
+      "median": 15.0,
+      "q75": 27.0,
+      "max": 49.0
+    },
+    "Monetary": {
+      "mean": 3260.38,
+      "std": 2760.69,
+      "min": 200.74,
+      "q25": 1221.3,
+      "median": 2317.57,
+      "q75": 3873.55,
+      "max": 11147.91
+    }
+  },
+  "correlation_matrix": {
+    "Age": {
+      "Age": 1.0,
+      "AnnualIncome": 0.141,
+      "SpendingScore": -0.712,
+      "Recency": 0.393,
+      "Frequency": -0.582,
+      "Monetary": -0.361
+    },
+    "AnnualIncome": {
+      "Age": 0.141,
+      "AnnualIncome": 1.0,
+      "SpendingScore": 0.081,
+      "Recency": -0.178,
+      "Frequency": 0.326,
+      "Monetary": 0.611
+    },
+    "SpendingScore": {
+      "Age": -0.712,
+      "AnnualIncome": 0.081,
+      "SpendingScore": 1.0,
+      "Recency": -0.503,
+      "Frequency": 0.816,
+      "Monetary": 0.741
+    },
+    "Recency": {
+      "Age": 0.393,
+      "AnnualIncome": -0.178,
+      "SpendingScore": -0.503,
+      "Recency": 1.0,
+      "Frequency": -0.456,
+      "Monetary": -0.416
+    },
+    "Frequency": {
+      "Age": -0.582,
+      "AnnualIncome": 0.326,
+      "SpendingScore": 0.816,
+      "Recency": -0.456,
+      "Frequency": 1.0,
+      "Monetary": 0.792
+    },
+    "Monetary": {
+      "Age": -0.361,
+      "AnnualIncome": 0.611,
+      "SpendingScore": 0.741,
+      "Recency": -0.416,
+      "Frequency": 0.792,
+      "Monetary": 1.0
+    }
+  },
+  "histograms": {
+    "Age": {
+      "counts": [
+        47,
+        56,
+        54,
+        51,
+        56,
+        50,
+        62,
+        48,
+        38,
+        19,
+        13,
+        6
+      ],
+      "bin_edges": [
+        18.0,
+        22.5,
+        27.0,
+        31.5,
+        36.0,
+        40.5,
+        45.0,
+        49.5,
+        54.0,
+        58.5,
+        63.0,
+        67.5,
+        72.0
+      ]
+    },
+    "AnnualIncome": {
+      "counts": [
+        86,
+        90,
+        36,
+        30,
+        35,
+        29,
+        49,
+        75,
+        50,
+        13,
+        2,
+        5
+      ],
+      "bin_edges": [
+        15.0,
+        25.2,
+        35.4,
+        45.5,
+        55.7,
+        65.9,
+        76.1,
+        86.3,
+        96.5,
+        106.6,
+        116.8,
+        127.0,
+        137.2
+      ]
+    },
+    "SpendingScore": {
+      "counts": [
+        37,
+        76,
+        68,
+        40,
+        21,
+        23,
+        20,
+        19,
+        43,
+        65,
+        66,
+        22
+      ],
+      "bin_edges": [
+        7.5,
+        15.1,
+        22.8,
+        30.4,
+        38.0,
+        45.6,
+        53.2,
+        60.9,
+        68.5,
+        76.1,
+        83.8,
+        91.4,
+        99.0
+      ]
+    },
+    "Recency": {
+      "counts": [
+        106,
+        103,
+        65,
+        65,
+        42,
+        34,
+        22,
+        16,
+        13,
+        8,
+        5,
+        21
+      ],
+      "bin_edges": [
+        2.0,
+        14.3,
+        26.7,
+        39.0,
+        51.3,
+        63.7,
+        76.0,
+        88.3,
+        100.7,
+        113.0,
+        125.3,
+        137.7,
+        150.0
+      ]
+    },
+    "Frequency": {
+      "counts": [
+        78,
+        79,
+        62,
+        44,
+        36,
+        46,
+        46,
+        37,
+        32,
+        24,
+        11,
+        5
+      ],
+      "bin_edges": [
+        1.0,
+        5.0,
+        9.0,
+        13.0,
+        17.0,
+        21.0,
+        25.0,
+        29.0,
+        33.0,
+        37.0,
+        41.0,
+        45.0,
+        49.0
+      ]
+    },
+    "Monetary": {
+      "counts": [
+        120,
+        95,
+        100,
+        59,
+        13,
+        4,
+        9,
+        22,
+        42,
+        22,
+        11,
+        3
+      ],
+      "bin_edges": [
+        200.7,
+        1113.0,
+        2025.3,
+        2937.5,
+        3849.8,
+        4762.1,
+        5674.3,
+        6586.6,
+        7498.9,
+        8411.1,
+        9323.4,
+        10235.6,
+        11147.9
+      ]
+    }
+  },
+  "gender_distribution": {
+    "Female": 294,
+    "Male": 206
+  }
+}
