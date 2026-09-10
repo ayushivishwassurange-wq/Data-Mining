@@ -1,0 +1,25 @@
+{
+  "name": "market-basket-association-mining",
+  "version": "1.0.0",
+  "description": "Production-Grade Market Basket & Associative Pattern Mining Platform following CRISP-DM 6-Phase Framework",
+  "scripts": {
+    "dev:backend": "uvicorn backend.app:app --reload --port 8000",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build",
+    "test:backend": "pytest backend/test_api.py -v",
+    "export:models": "python ml_engine/export_models.py"
+  },
+  "keywords": [
+    "data-mining",
+    "market-basket-analysis",
+    "apriori",
+    "fpgrowth",
+    "eclat",
+    "association-rules",
+    "crisp-dm",
+    "fastapi",
+    "react19"
+  ],
+  "author": "Ayushi Vishwas Surange",
+  "license": "MIT"
+}

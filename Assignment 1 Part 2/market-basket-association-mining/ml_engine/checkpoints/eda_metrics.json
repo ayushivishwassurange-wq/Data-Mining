@@ -1,0 +1,292 @@
+{
+  "total_transactions": 1000,
+  "total_unique_items": 32,
+  "avg_basket_size": 6.63,
+  "median_basket_size": 7,
+  "max_basket_size": 10,
+  "top_frequent_items": [
+    {
+      "item": "Eggs (Dozen)",
+      "count": 493,
+      "support": 0.493
+    },
+    {
+      "item": "Organic Whole Milk",
+      "count": 435,
+      "support": 0.435
+    },
+    {
+      "item": "Bananas",
+      "count": 435,
+      "support": 0.435
+    },
+    {
+      "item": "Pure Honey",
+      "count": 332,
+      "support": 0.332
+    },
+    {
+      "item": "Apples",
+      "count": 304,
+      "support": 0.304
+    },
+    {
+      "item": "Ground Coffee",
+      "count": 284,
+      "support": 0.284
+    },
+    {
+      "item": "Butter Croissant",
+      "count": 278,
+      "support": 0.278
+    },
+    {
+      "item": "Orange Juice",
+      "count": 272,
+      "support": 0.272
+    },
+    {
+      "item": "Extra Virgin Olive Oil",
+      "count": 248,
+      "support": 0.248
+    },
+    {
+      "item": "Green Tea",
+      "count": 232,
+      "support": 0.232
+    },
+    {
+      "item": "Fresh Salsa",
+      "count": 230,
+      "support": 0.23
+    },
+    {
+      "item": "Italian Pasta",
+      "count": 229,
+      "support": 0.229
+    },
+    {
+      "item": "French Baguette",
+      "count": 226,
+      "support": 0.226
+    },
+    {
+      "item": "Baby Spinach",
+      "count": 223,
+      "support": 0.223
+    },
+    {
+      "item": "Whole Wheat Bread",
+      "count": 223,
+      "support": 0.223
+    }
+  ],
+  "basket_size_distribution": [
+    {
+      "basket_size": 2,
+      "count": 70
+    },
+    {
+      "basket_size": 3,
+      "count": 73
+    },
+    {
+      "basket_size": 4,
+      "count": 121
+    },
+    {
+      "basket_size": 5,
+      "count": 89
+    },
+    {
+      "basket_size": 6,
+      "count": 124
+    },
+    {
+      "basket_size": 7,
+      "count": 117
+    },
+    {
+      "basket_size": 8,
+      "count": 95
+    },
+    {
+      "basket_size": 9,
+      "count": 86
+    },
+    {
+      "basket_size": 10,
+      "count": 225
+    }
+  ],
+  "category_share": [
+    {
+      "category": "Bakery",
+      "total_item_sales": 980,
+      "percentage": 14.8
+    },
+    {
+      "category": "Beverages",
+      "total_item_sales": 922,
+      "percentage": 13.9
+    },
+    {
+      "category": "Pantry",
+      "total_item_sales": 1348,
+      "percentage": 20.3
+    },
+    {
+      "category": "Dairy",
+      "total_item_sales": 1521,
+      "percentage": 22.9
+    },
+    {
+      "category": "Produce",
+      "total_item_sales": 1375,
+      "percentage": 20.7
+    },
+    {
+      "category": "Snacks",
+      "total_item_sales": 489,
+      "percentage": 7.4
+    }
+  ],
+  "top_pairwise_affinities": [
+    {
+      "item_a": "Eggs (Dozen)",
+      "item_b": "Organic Whole Milk",
+      "co_occurrence_count": 278,
+      "joint_support": 0.278
+    },
+    {
+      "item_a": "Bananas",
+      "item_b": "Eggs (Dozen)",
+      "co_occurrence_count": 236,
+      "joint_support": 0.236
+    },
+    {
+      "item_a": "Bananas",
+      "item_b": "Organic Whole Milk",
+      "co_occurrence_count": 210,
+      "joint_support": 0.21
+    },
+    {
+      "item_a": "Apples",
+      "item_b": "Eggs (Dozen)",
+      "co_occurrence_count": 190,
+      "joint_support": 0.19
+    },
+    {
+      "item_a": "Butter Croissant",
+      "item_b": "Eggs (Dozen)",
+      "co_occurrence_count": 188,
+      "joint_support": 0.188
+    },
+    {
+      "item_a": "Eggs (Dozen)",
+      "item_b": "Ground Coffee",
+      "co_occurrence_count": 188,
+      "joint_support": 0.188
+    },
+    {
+      "item_a": "Apples",
+      "item_b": "Bananas",
+      "co_occurrence_count": 181,
+      "joint_support": 0.181
+    },
+    {
+      "item_a": "Eggs (Dozen)",
+      "item_b": "Orange Juice",
+      "co_occurrence_count": 178,
+      "joint_support": 0.178
+    },
+    {
+      "item_a": "Apples",
+      "item_b": "Organic Whole Milk",
+      "co_occurrence_count": 174,
+      "joint_support": 0.174
+    },
+    {
+      "item_a": "Ground Coffee",
+      "item_b": "Organic Whole Milk",
+      "co_occurrence_count": 174,
+      "joint_support": 0.174
+    },
+    {
+      "item_a": "Bananas",
+      "item_b": "Pure Honey",
+      "co_occurrence_count": 166,
+      "joint_support": 0.166
+    },
+    {
+      "item_a": "Orange Juice",
+      "item_b": "Organic Whole Milk",
+      "co_occurrence_count": 160,
+      "joint_support": 0.16
+    },
+    {
+      "item_a": "French Baguette",
+      "item_b": "Green Tea",
+      "co_occurrence_count": 156,
+      "joint_support": 0.156
+    },
+    {
+      "item_a": "Green Tea",
+      "item_b": "Pure Honey",
+      "co_occurrence_count": 151,
+      "joint_support": 0.151
+    },
+    {
+      "item_a": "Butter Croissant",
+      "item_b": "Ground Coffee",
+      "co_occurrence_count": 148,
+      "joint_support": 0.148
+    }
+  ],
+  "product_catalog": {
+    "Bakery": [
+      "French Baguette",
+      "Whole Wheat Bread",
+      "Butter Croissant",
+      "Blueberry Muffin",
+      "Bagels"
+    ],
+    "Dairy": [
+      "Organic Whole Milk",
+      "Greek Yogurt",
+      "Salted Butter",
+      "Cheddar Cheese",
+      "Eggs (Dozen)"
+    ],
+    "Produce": [
+      "Bananas",
+      "Organic Avocados",
+      "Fresh Tomatoes",
+      "Baby Spinach",
+      "Apples",
+      "Lemons"
+    ],
+    "Pantry": [
+      "Italian Pasta",
+      "Organic Tomato Sauce",
+      "Extra Virgin Olive Oil",
+      "Ground Coffee",
+      "Pure Honey",
+      "Basmati Rice"
+    ],
+    "Snacks": [
+      "Tortilla Chips",
+      "Fresh Salsa",
+      "Dark Chocolate",
+      "Roasted Almonds",
+      "Granola Bars"
+    ],
+    "Beverages": [
+      "Red Wine",
+      "Craft Beer",
+      "Green Tea",
+      "Sparkling Water",
+      "Orange Juice"
+    ]
+  }
+}
