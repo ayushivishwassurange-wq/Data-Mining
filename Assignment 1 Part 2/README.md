@@ -1,6 +1,8 @@
 # 🚀 Data Mining & Advanced Machine Learning Portfolio
 ## Assignment 1 Part 2 — End-to-End CRISP-DM Machine Learning Applications
 
+[Youtube walkthrough]:(https://www.youtube.com/watch?v=E0j3J0QEw4w)
+
 [![CRISP-DM Standard](https://img.shields.io/badge/Methodology-CRISP--DM%206--Phase-purple.svg)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110.0-009688.svg?logo=fastapi)](https://fastapi.tiangolo.com)
