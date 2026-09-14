@@ -36,7 +36,7 @@
 
 ---
 ## Youtube Walkthrough
-[Youtube walkthrough]:(https://www.youtube.com/watch?v=E0j3J0QEw4w)
+[Youtube walkthrough](https://www.youtube.com/watch?v=E0j3J0QEw4w)
 
 ## 🌟 Executive Summary
 
