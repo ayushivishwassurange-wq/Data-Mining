@@ -1,7 +1,7 @@
 # 🚀 Data Mining & Advanced Machine Learning Portfolio
 ## Assignment 1 Part 2 — End-to-End CRISP-DM Machine Learning Applications
 
-[Youtube walkthrough]:(https://www.youtube.com/watch?v=E0j3J0QEw4w)
+
 
 [![CRISP-DM Standard](https://img.shields.io/badge/Methodology-CRISP--DM%206--Phase-purple.svg)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python)](https://python.org)
@@ -20,20 +20,23 @@
 ---
 
 ## 📑 Table of Contents
-1. [Executive Summary](#-executive-summary)
-2. [CRISP-DM 6-Phase Architecture](#-crisp-dm-6-phase-architecture)
-3. [Unified Project Matrix](#-unified-project-matrix)
-4. [Project Deep Dives](#-project-deep-dives)
+1.[Youtube Video](#youtube)
+2.  [Executive Summary](#-executive-summary)
+3. [CRISP-DM 6-Phase Architecture](#-crisp-dm-6-phase-architecture)
+4. [Unified Project Matrix](#-unified-project-matrix)
+5. [Project Deep Dives](#-project-deep-dives)
    - [1. NYC Taxi Challenge (Supervised Regression)](#1--nyc-taxi-challenge--crisp-dm-regression-platform)
    - [2. Customer Segmentation (Unsupervised Clustering)](#2--customer-segmentation--multi-algorithm-clustering-platform)
    - [3. Market Basket Mining (Frequent Patterns & Rules)](#3--market-basket--associative-pattern-mining-platform)
    - [4. Mini-LLM & Chatbot (From-Scratch Deep Learning)](#4--mini-llm--generative-chatbot-platform)
    - [5. TaskFlow Pro (Full-Stack Workflow System)](#5--taskflow-pro--modern-dynamic-workflow-system)
-5. [Quickstart & Port Matrix](#-quickstart--port-matrix)
-6. [Testing & Quality Assurance](#-testing--quality-assurance)
-7. [Repository Structure](#-repository-structure)
+6. [Quickstart & Port Matrix](#-quickstart--port-matrix)
+7. [Testing & Quality Assurance](#-testing--quality-assurance)
+8. [Repository Structure](#-repository-structure)
 
 ---
+##Youtube Walkthrough
+[][Youtube walkthrough]:(https://www.youtube.com/watch?v=E0j3J0QEw4w)
 
 ## 🌟 Executive Summary
 
