@@ -20,7 +20,7 @@
 ---
 
 ## 📑 Table of Contents
-1.[Youtube Video](#-youtube)
+1.[Youtube Video](#-youtube-walthrough)
 2.  [Executive Summary](#-executive-summary)
 3. [CRISP-DM 6-Phase Architecture](#-crisp-dm-6-phase-architecture)
 4. [Unified Project Matrix](#-unified-project-matrix)
@@ -35,7 +35,7 @@
 8. [Repository Structure](#-repository-structure)
 
 ---
-##Youtube Walkthrough
+## Youtube Walkthrough
 [Youtube walkthrough]:(https://www.youtube.com/watch?v=E0j3J0QEw4w)
 
 ## 🌟 Executive Summary
