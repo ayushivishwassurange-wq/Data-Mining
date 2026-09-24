@@ -30,6 +30,11 @@ Data-Mining/
 │   ├── market-basket-association-mining/# 🛒 Frequent Pattern Mining (Apriori, FP-Growth)
 │   ├── llm-chatbot-platform/           # 🧠 From-Scratch PyTorch LLM (RoPE, SwiGLU, SSE)
 │   └── fullstack-test/                 # ⚡ Dynamic Workflow Engine (TaskFlow Pro)
+│
+└── notebooks/                          # 📓 AI & Machine Learning Foundations
+    ├── README.md                       # Complete curriculum guide & mathematical index
+    └── *.ipynb                         # 16 Executed Google Colab / Jupyter notebooks
+```
 
 ---
 
@@ -57,6 +62,16 @@ A suite of 5 production applications following the 6-phase **CRISP-DM** lifecycl
 | **[Market Basket Mining](./Assignment%201%20Part%202/market-basket-association-mining)** | Association Mining (Apriori, FP-Growth, ECLAT) | **Peak Lift: 5.05x**<br>FP-Growth 9x speedup | FastAPI, React 19, SVG Graph | `8004` / `5177` |
 | **[Mini-LLM Chatbot](./Assignment%201%20Part%202/llm-chatbot-platform)** | From-Scratch Causal Transformer (RoPE, SwiGLU, RMSNorm) | **Loss: 0.0239**, PPL: 1.02<br>Latency: <5ms/token | FastAPI SSE, PyTorch, React 19 | `8002` / `5175` |
 | **[TaskFlow Pro](./Assignment%201%20Part%202/fullstack-test)** | Fullstack Task Management (Kanban, Matrix, Calendar) | Natural Language Parser<br>Multi-Tab Real-time SSE | Express.js, React 19, Web Audio | `5000` / `5173` |
+
+---
+
+### 3. 📓 AI & Machine Learning Foundations — Executed Notebooks
+*Directory: [`notebooks/`](./notebooks/)* | *Documentation: [`notebooks/README.md`](./notebooks/README.md)*
+
+A comprehensive curriculum of 16 pre-executed Google Colab notebooks exploring foundational mathematics, data engineering, and architectures that underpin modern AI and Deep Learning:
+- **Data Engineering Foundations**: NumPy n-dimensional tensors, broadcasting, vectorization, and pandas data manipulation & cleaning.
+- **Scientific Visualization**: Matplotlib artist tree architecture, coordinate transformations, and GridSpec multi-panel layouts.
+- **Mathematical Foundations**: Linear transformations, dot product projections, eigenvalues/PCA, multivariate gradients, chain rule backpropagation, probability distributions, Bayes' Theorem, MLE, and statistical hypothesis testing.
 
 ---
 
