@@ -4,6 +4,7 @@
 [![KDD Benchmark](https://img.shields.io/badge/Venue-KDD%20Datasets%20%26%20Benchmarks-2563eb?style=for-the-badge)](https://arxiv.org/abs/2605.26562)
 [![Primary ArXiv](https://img.shields.io/badge/arXiv-2605.26562-b31b1b?style=for-the-badge)](https://arxiv.org/abs/2605.26562)
 [![Medium Article](https://img.shields.io/badge/Medium-Published%20Article-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ayushivishwas.surange/stop-worshipping-time-series-backbones-what-20-000-experiments-reveal-about-what-actually-works-54be679b2d5c?postPublishedType=initial)
+[![YouTube Video](https://img.shields.io/badge/YouTube-Video%20Presentation-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ZWya94I1u0Y?si=ETIsNs_1sfwYdy-Q)
 [![Companion VLDB](https://img.shields.io/badge/Companion%20Survey-VLDB%202024%20(TFB)-0d9488?style=for-the-badge)](https://arxiv.org/abs/2403.20150)
 [![Companion KDD](https://img.shields.io/badge/Companion%20Survey-KDD%202024%20(TSFM)-4f46e5?style=for-the-badge)](https://arxiv.org/abs/2403.14735)
 
@@ -16,9 +17,13 @@
 | **1. Approved Primary Paper** | *Beyond Holistic Models: Systematic Component-level Benchmarking of Deep Multivariate Time-Series Forecasting (TSCOMP)* | [arXiv:2605.26562](https://arxiv.org/abs/2605.26562) / [Official Code (`SUFE-AILAB/TSCOMP`)](https://github.com/SUFE-AILAB/TSCOMP) |
 | **2. Companion Surveys Synthesized** | **TFB** (*VLDB 2024*, [arXiv:2403.20150](https://arxiv.org/abs/2403.20150)) & **Foundation Models for Time Series Survey** (*KDD 2024*, [arXiv:2403.14735](https://arxiv.org/abs/2403.14735)) | Integrated in Article, Slides & Section 6 below |
 | **3. Original Medium.com Article** | *"Stop Worshipping Time-Series Backbones: What 20,000+ Experiments Reveal About What Actually Works in Deep Forecasting"* | **Published Medium Link:** [Read on Medium.com](https://medium.com/@ayushivishwas.surange/stop-worshipping-time-series-backbones-what-20-000-experiments-reveal-about-what-actually-works-54be679b2d5c?postPublishedType=initial) <br> **Full Markdown Source in Repo:** [`medium_article.md`](medium_article.md) |
-| **4. SlideShare Presentation Deck** | 14-Slide Widescreen Presentation Deck (`.pptx`, `.pdf`, `.html`, `.md`, and 1080p `.png` slides) | **Published SlideShare Link:** `[PASTE_YOUR_SLIDESHARE_URL_HERE]` <br> **PowerPoint File in Repo:** [`slides/TSCOMP_Short_Story_Slides.pptx`](slides/TSCOMP_Short_Story_Slides.pptx) <br> **PDF Slide Deck in Repo:** [`slides/TSCOMP_Short_Story_Slides.pdf`](slides/TSCOMP_Short_Story_Slides.pdf) <br> **Printable HTML Deck:** [`slides/TSCOMP_Short_Story_Slides.html`](slides/TSCOMP_Short_Story_Slides.html) |
-| **5. 10–15 Min Video Presentation** | Recorded walkthrough of the 14 slides covering gist, architecture, ablations, metrics, and critical review | **Video File / Link:** `[UPLOAD_VIDEO_OR_PASTE_LINK_HERE]` <br> **Full Speaker Script:** [`video_script.md`](video_script.md) |
+| **4. SlideShare Presentation Deck** | 14-Slide Widescreen Presentation Deck (`.pptx`, `.pdf`, `.html`, `.md`, and 1080p `.png` slides) | **PowerPoint File in Repo:** [`slides/TSCOMP_Short_Story_Slides.pptx`](slides/TSCOMP_Short_Story_Slides.pptx) <br> **PDF Slide Deck in Repo:** [`slides/TSCOMP_Short_Story_Slides.pdf`](slides/TSCOMP_Short_Story_Slides.pdf) <br> **Printable HTML Deck:** [`slides/TSCOMP_Short_Story_Slides.html`](slides/TSCOMP_Short_Story_Slides.html) |
+| **5. 10–15 Min Video Presentation** | Recorded walkthrough of the 14 slides covering gist, architecture, ablations, metrics, and critical review | **Published Video Link:** [Watch on YouTube (`youtu.be/ZWya94I1u0Y`)](https://youtu.be/ZWya94I1u0Y?si=ETIsNs_1sfwYdy-Q) <br> **Full Speaker Script:** [`video_script.md`](video_script.md) |
 | **6. Visualizations & Diagrams** | 5 Custom High-Resolution Architecture, Taxonomy, Ablation, Benchmark & Synergy Figures | [`figures/`](figures/) (Embedded inline below) |
+
+### Video Presentation Walkthrough (Click Thumbnail to Watch on YouTube)
+[![Watch the CMPE 255 Short Story Video Presentation on YouTube](slides/slide_images/slide_01.png)](https://youtu.be/ZWya94I1u0Y?si=ETIsNs_1sfwYdy-Q)
+> **[Click here to watch the 10–15 Minute Video Presentation on YouTube](https://youtu.be/ZWya94I1u0Y?si=ETIsNs_1sfwYdy-Q)** | **[Read the Published Article on Medium.com](https://medium.com/@ayushivishwas.surange/stop-worshipping-time-series-backbones-what-20-000-experiments-reveal-about-what-actually-works-54be679b2d5c?postPublishedType=initial)** | **[Download the 14-Slide PowerPoint Deck (`.pptx`)](slides/TSCOMP_Short_Story_Slides.pptx)** | **[Download the 14-Page PDF Deck (`.pdf`)](slides/TSCOMP_Short_Story_Slides.pdf)**
 
 ---
 
